@@ -61,7 +61,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
 					<span><?php echo $err_pass;?></span></td>
 				</tr>
 				<tr>
-					<td><input type="checkbox" name="" value="Movies"><span>Remember Me</span></td>
+					<td><input type="checkbox" name="" value="Remember Me"><span>Remember Me</span></td>
 					
 						
 				</tr>
