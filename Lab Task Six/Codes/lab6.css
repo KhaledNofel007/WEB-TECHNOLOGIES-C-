@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
+
+header,
+footer {
+  background-color: aqua;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: bisque;
+}
